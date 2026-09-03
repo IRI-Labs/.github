@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  Our solutions are designed for <strong>sensitive environments</strong> — 
+  Our solutions are designed for <strong>sensitive environments</strong> - 
   from government data centers to national R&D initiatives. 
   <strong>Access is by invitation or referral only.</strong>
 </p>
