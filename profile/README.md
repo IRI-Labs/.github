@@ -86,10 +86,10 @@
 </p>
 
 <p align="center">
-  • ✅ <strong>NDA Protected</strong> — All projects and communications are confidential<br>
-  • ✅ <strong>Vetted Access</strong> — Services are offered to government and pre-approved entities<br>
-  • ✅ <strong>National Standards</strong> — Compliant with Iranian cybersecurity regulations<br>
-  • ✅ <strong>Data Sovereignty</strong> — All infrastructure remains within Iran
+  • ✅ <strong>NDA Protected</strong> - All projects and communications are confidential<br>
+  • ✅ <strong>Vetted Access</strong> - Services are offered to government and pre-approved entities<br>
+  • ✅ <strong>National Standards</strong> - Compliant with Iranian cybersecurity regulations<br>
+  • ✅ <strong>Data Sovereignty</strong> - All infrastructure remains within Iran
 </p>
 
 <br>
@@ -127,13 +127,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🇮🇷-Made_in_Iran-239120?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📅-2026-important?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <sub>
-    ⚠️ <strong>CONFIDENTIAL</strong> — This document and the services described herein 
-    are proprietary to IR-LABS. Unauthorized distribution or reproduction is prohibited.
-  </sub>
 </p>
 
 <p align="center">
